@@ -1,4 +1,3 @@
-Dukung kami melalui :
-https://saweria.co/eksan07
+MyPets - Backend
 
-<img src="saweria.png">
+Menggunakan Framework Codeigniter3 serta MySql
